@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 import 'core/theme/app_theme.dart';
 import 'core/routes/main_shell.dart';
-import 'core/routes/main_shell.dart';
 
 void main() {
   runApp(const FitForgeApp());
